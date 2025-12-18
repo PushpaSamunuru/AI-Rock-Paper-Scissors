@@ -3,6 +3,11 @@
 A real-time Rock–Paper–Scissors game that uses your webcam to detect hand gestures and play against an AI opponent.  
 Built using **Python**, **OpenCV**, and **MediaPipe/cvzone hand tracking**.
 
+# DEMO Screenshot
+
+<img width="1920" height="1080" alt="Screenshot 2025-12-18 132250" src="https://github.com/user-attachments/assets/a62a8950-b4d8-4bcc-9f30-81e5aadefbdf" />
+
+
 ## Features
 - Real-time hand gesture recognition (Rock / Paper / Scissors)
 - AI opponent (random choice)
@@ -45,11 +50,6 @@ Paper: open palm ✋
 Scissors: index + middle fingers ✌️
 
 Press Q to quit.
-
-Demo Screenshot
-
-<img width="1920" height="1080" alt="Screenshot 2025-12-18 132250" src="https://github.com/user-attachments/assets/322913c2-45ad-4f6c-bb5e-d9217ad517fc" />
-
 
 Author
 Pushpa Samunuru
